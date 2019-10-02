@@ -1,4 +1,4 @@
-# first_repo
+## first_repo
 This is my first repo ( SandBox Project )
 
 ## Basic file structure of the template of a simple Front End Project ( SandBox Project )
