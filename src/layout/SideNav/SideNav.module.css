@@ -1,0 +1,16 @@
+.sideNav {
+  width: 21%;
+  border: 3px solid #eeeeee;
+  height: calc(100vh - 210px - 18px);
+  margin: 7px 0;
+  box-sizing: border-box;
+}
+
+.sideNav h3 {
+  /* line-height: calc(100vh - 210px - 28px); */
+  padding-top: 50px;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  color: #ababab;
+}
