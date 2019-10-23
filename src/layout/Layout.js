@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from './Header/Header'
+import Footer from './Footer/Footer'
 
 const Layout = () => {
   return (
@@ -10,6 +11,9 @@ const Layout = () => {
       <header>
         <Header />
       </header>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   )
 }

@@ -1,13 +1,13 @@
-.header {
+.footer {
   width: 100%;
   border: 3px solid #eeeeee;
-  height: 70px;
-  margin-bottom: 7px;
+  height: 140px;
+  margin-top: 7px;
 }
 
-.header h1 {
+.footer h1 {
   width: 100%;
-  line-height: 70px;
+  line-height: 140px;
   text-align: center;
   margin: 0;
   color: #ababab;
