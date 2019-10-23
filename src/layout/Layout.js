@@ -1,6 +1,8 @@
 import React from 'react'
+
 import Header from './Header/Header'
 import Footer from './Footer/Footer'
+import SideNav from './SideNav/SideNav'
 
 const Layout = () => {
   return (
@@ -11,6 +13,9 @@ const Layout = () => {
       <header>
         <Header />
       </header>
+      <nav>
+        <SideNav />
+      </nav>
       <footer>
         <Footer />
       </footer>

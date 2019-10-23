@@ -3,6 +3,7 @@
   border: 3px solid #eeeeee;
   height: 70px;
   margin-bottom: 7px;
+  box-sizing: border-box;
 }
 
 .header h1 {

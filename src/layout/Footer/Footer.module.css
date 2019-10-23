@@ -3,6 +3,7 @@
   border: 3px solid #eeeeee;
   height: 140px;
   margin-top: 7px;
+  box-sizing: border-box;
 }
 
 .footer h1 {
