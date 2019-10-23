@@ -1,12 +1,9 @@
-import React from 'react';
-import './App.css';
+import React from 'react'
+import './App.css'
+import Layout from './layout/Layout'
 
 function App() {
-  return (
-    <p>
-      React App Pruned.
-    </p>
-  )
+  return <Layout />
 }
 
-export default App;
+export default App
